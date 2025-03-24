@@ -13,3 +13,5 @@ It does this following the method of Tristan Tzara (Dada Manifesto On Feeble Lov
     And here are you a writer, infinitely original and endowed with a sensibility that is charming though beyond the understanding of the vulgar. 
 
 There is not really much to it.
+
+You can find and install it here: https://addons.mozilla.org/addon/dada-poem-generator
